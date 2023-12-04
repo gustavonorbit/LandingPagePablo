@@ -272,6 +272,7 @@ header{
 }
 /*ÁREA ATUAÇÕES*/
 .titulo-atuacoes{
+    font-family: 'Montserrat', sans-serif;
     top: 10px;
     font-size: 30px;
     justify-content: center;
